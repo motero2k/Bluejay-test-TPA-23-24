@@ -252,7 +252,7 @@ See more: [https://shields.io/](https://shields.io/)
 [![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/fefong/markdown_readme/network)
 ![Markdown](https://img.shields.io/badge/markdown-project-red)
 
-# Markdown Editor
+### Markdown Editor
 
 [StackEdit](https://stackedit.io) - _StackEdit’s Markdown syntax highlighting is unique. The refined text formatting of the editor helps you visualize the final rendering of your files._
 
