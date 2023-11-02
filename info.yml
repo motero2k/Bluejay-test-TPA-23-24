@@ -18,3 +18,5 @@ project:
       name: 'Javi'
       surname: 'Fernandez' 
       githubUsername: 'JaviFdez7'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
