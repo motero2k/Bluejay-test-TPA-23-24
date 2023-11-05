@@ -1,0 +1,22 @@
+project:
+  name: 'test TPA 23-24 crypted slack for bk'
+  owner: 'mk-test2'
+  teamId: 'mk-21'
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2487566'
+    heroku: 'https://goldenflow-showcase-project.herokuapp.com/'
+  notifications:
+    slack_enc: U2FsdGVkX1/eJiQcpturJ3K0BOCBvpzJJFqfalYXmKnkYqJhA1h/De5Qv8BYlxqnaqHG+QvBc6QHeFHFns98RFcLrUQ3dQsqKZdcup/2Oy6fp6+LSTWm6mfBamRiiTlT98x6AaI3BVuFSU+y4LENxQ==
+  members:
+    member1:
+      name: 'Manuel'
+      surname: 'Otero' 
+      githubUsername: 'motero2k'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
+    member2:
+      name: 'Javi'
+      surname: 'Fernandez' 
+      githubUsername: 'JaviFdez7'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
