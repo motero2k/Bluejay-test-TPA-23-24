@@ -1,7 +1,7 @@
 project:
-  name: 'test TPA 23-24 crypted slack f'
+  name: 'test TPA 23-24 crypted slack for bk'
   owner: 'mk-test2'
-  teamId: 'mk-221'
+  teamId: 'mk-21'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2487566'
     heroku: 'https://goldenflow-showcase-project.herokuapp.com/'
