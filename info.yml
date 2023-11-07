@@ -2,7 +2,7 @@ project:
   name: 'test TPA 23-24 crypted slack for bk'
   owner: 'mk-test2'
   teamId: 'mk-21'
-  identities:
+  identities: {}
   notifications:
     slack_enc: U2FsdGVkX1/eJiQcpturJ3K0BOCBvpzJJFqfalYXmKnkYqJhA1h/De5Qv8BYlxqnaqHG+QvBc6QHeFHFns98RFcLrUQ3dQsqKZdcup/2Oy6fp6+LSTWm6mfBamRiiTlT98x6AaI3BVuFSU+y4LENxQ==
   members:
