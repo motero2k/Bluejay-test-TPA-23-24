@@ -3,7 +3,6 @@ project:
   owner: 'mk-test2'
   teamId: 'mk-21'
   identities:
-    pivotal: ''
   notifications:
     slack_enc: U2FsdGVkX1/eJiQcpturJ3K0BOCBvpzJJFqfalYXmKnkYqJhA1h/De5Qv8BYlxqnaqHG+QvBc6QHeFHFns98RFcLrUQ3dQsqKZdcup/2Oy6fp6+LSTWm6mfBamRiiTlT98x6AaI3BVuFSU+y4LENxQ==
   members:
