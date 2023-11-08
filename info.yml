@@ -1,10 +1,10 @@
 project:
-  name: 'CS169-test-Lab7-33'
-  owner: 'Lab7'
-  teamId: '33'
+  name: 'CS169-fa23-XX'
+  owner: 'fa23'
+  teamId: 'XX'
   identities: {}
   notifications:
-    email: 'motero6@us.es'
+    email: 'XXXXXXXXXXX'
   members:
     member1:
       name: 'Manuel'
@@ -14,3 +14,11 @@ project:
       name: 'Javi'
       surname: 'Fernandez' 
       githubUsername: 'JaviFdez7'
+    member3:
+      name: 'XXXXXXXXXXX'
+      surname: 'XXXXXXXXXXX' 
+      githubUsername: 'XXXXXXXXXXX'
+    member4:
+      name: 'XXXXXXXXXXX'
+      surname: 'XXXXXXXXXXX' 
+      githubUsername: 'XXXXXXXXXXX'
