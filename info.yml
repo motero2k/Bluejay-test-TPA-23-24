@@ -1,9 +1,10 @@
 project:
-  name: 'CS169-fa23-999'
+  name: 'CS169-fa23-998'
   owner: 'fa23'
-  teamId: '999'
+  teamId: '998'
   identities: {}
   notifications:
+    slack_enc: U2FsdGVkX1/q9bo/PT00sdrZ/x5JRkZWjAnhvA+7tAsGvTcmnqxR4RlwNu+81o8afxUwqqTeiJddIV1vGw+TmTpWSZlpomcQd6n01736Cq+hFdcrvevifPC4kMROm1WHlL0x4cUM6AuSgbsADfbWqw==
     email: 'manolo.ob@hotmail.com'
   members:
     member1:
