@@ -1,7 +1,7 @@
 project:
-  name: 'CS169-fa23-998'
-  owner: 'fa23'
-  teamId: '998'
+  name: 'Bj testing'
+  owner: 'ISA'
+  teamId: '777'
   identities: {}
   notifications:
     slack_enc: U2FsdGVkX1/q9bo/PT00sdrZ/x5JRkZWjAnhvA+7tAsGvTcmnqxR4RlwNu+81o8afxUwqqTeiJddIV1vGw+TmTpWSZlpomcQd6n01736Cq+hFdcrvevifPC4kMROm1WHlL0x4cUM6AuSgbsADfbWqw==
@@ -15,3 +15,7 @@ project:
       name: 'Javi'
       surname: 'Fernandez' 
       githubUsername: 'JaviFdez7'
+    member3:
+      name: 'Manuel2'
+      surname: 'Otero' 
+      githubUsername: 'motero2kv2'
