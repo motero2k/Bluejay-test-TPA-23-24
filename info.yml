@@ -4,7 +4,7 @@ project:
   teamId: '777'
   identities: {}
   notifications: 
-    email: 'manolo.ob@hotmail.com'
+    email: 'manolo.ob@hotmail.com,javidela@gmail.com'
   members:
     member1:
       name: 'Manuel2'
