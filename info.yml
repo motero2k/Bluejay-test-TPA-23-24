@@ -3,7 +3,8 @@ project:
   owner: 'ISA'
   teamId: '777'
   identities: {}
-  notifications: {}
+  notifications: 
+    email: 'manolo.ob@hotmail.com'
   members:
     member1:
       name: 'Manuel2'
