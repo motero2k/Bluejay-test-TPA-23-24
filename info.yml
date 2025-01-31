@@ -3,12 +3,10 @@ project:
   owner: 'ISA'
   teamId: '777'
   identities: {}
-  notifications:
-    slack_enc: U2FsdGVkX1/q9bo/PT00sdrZ/x5JRkZWjAnhvA+7tAsGvTcmnqxR4RlwNu+81o8afxUwqqTeiJddIV1vGw+TmTpWSZlpomcQd6n01736Cq+hFdcrvevifPC4kMROm1WHlL0x4cUM6AuSgbsADfbWqw==
-    email: 'manolo.ob@hotmail.com'
+  notifications: {}
   members:
     member1:
-      name: 'Manuel'
+      name: 'Manuel2'
       surname: 'Otero' 
       githubUsername: 'motero2k'
     member2:
