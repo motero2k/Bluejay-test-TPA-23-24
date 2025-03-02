@@ -7,7 +7,7 @@ project:
     email: 'manolo.ob@hotmail.com'
   members:
     member1:
-      name: 'Manuel2'
+      name: 'Manuel'
       surname: 'Otero' 
       githubUsername: 'motero2k'
     member2:
